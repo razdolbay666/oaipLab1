@@ -49,10 +49,5 @@ int main(void) {
     CreateSimpleHtml();                  // 8.3.1  (HTML)
     CreateCategorizedHtmlVariant19();    // 8.3.2  (<b> для слов ≤3 букв, <i> для слов из маленьких букв)
 
-
-
-    //ИЗМЕНЕНИЯ
-    printf("\nИзменение 1\n");
-    printf("\nИзменение 2\n");
     return 0;
 }
