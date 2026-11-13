@@ -49,5 +49,19 @@ int main(void) {
     CreateSimpleHtml();                  // 8.3.1  (HTML)
     CreateCategorizedHtmlVariant19();    // 8.3.2  (<b> для слов ≤3 букв, <i> для слов из маленьких букв)
 
+
+
+    double temperature1 = 36;
+    double temperature2 = temperature1 * 9 / 5 + 32;
+    printf("%f\n", temperature2);
+
+    double power = 3;
+    printf("%f\n", power*power*power);
+
+    unsigned int factorial = 4;
+    printf("%u\n", 2*3*4);
+
+    double mulBy10 = 1;
+    printf("%f\n", mulBy10*10);
     return 0;
 }
