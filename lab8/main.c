@@ -50,6 +50,6 @@ int main(void) {
     CreateCategorizedHtmlVariant19();    // 8.3.2  (<b> для слов ≤3 букв, <i> для слов из маленьких букв)
 
 
-    //
+    //дополнить
     return 0;
 }
