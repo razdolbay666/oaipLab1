@@ -49,5 +49,7 @@ int main(void) {
     CreateSimpleHtml();                  // 8.3.1  (HTML)
     CreateCategorizedHtmlVariant19();    // 8.3.2  (<b> для слов ≤3 букв, <i> для слов из маленьких букв)
 
+
+    //
     return 0;
 }
